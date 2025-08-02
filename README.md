@@ -26,16 +26,12 @@ Users should be able to:
 
 ### Screenshot
 - Desktop View
-![](./ScreenShot/Desktop-view.png)
-- Mobile View
-
-  ![](./ScreenShot/Mobile-view.png)
-
+![](./Screenshots/Social-link-profile.png)
 
 ### Links
 
-- Solution URL: [https://github.com/Rubaiyat-Hassan/blog-preview-card-main](https://github.com/Rubaiyat-Hassan/blog-preview-card-main)
-- Live Site URL: [https://rubaiyat-hassan.github.io/qr-code-component-main/](https://rubaiyat-hassan.github.io/qr-code-component-main/)
+- Solution URL: [https://github.com/Rubaiyat-Hassan/social-links-profile-main/](https://github.com/Rubaiyat-Hassan/social-links-profile-main/)
+- Live Site URL: [https://rubaiyat-hassan.github.io/social-links-profile-main/](https://rubaiyat-hassan.github.io/social-links-profile-main/)
 
 ## My process
 
