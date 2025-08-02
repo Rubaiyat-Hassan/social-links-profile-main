@@ -9,6 +9,7 @@
   --card-bgcolor: hsl(0, 0%, 12%);
   --btn-bgcolor: hsl(0, 0%, 20%);
   --text-color: hsl(0, 0%, 100%);
+  --text-color-2:rgb(181, 181, 181);
   --address-hover-color: hsl(75, 94%, 57%);
 }
 
@@ -64,7 +65,7 @@ body {
 }
 .text p {
   font-size: 14px;
-  color: rgb(181, 181, 181);
+  color: var(--text-color-2);
 }
 
 @media screen and (min-width: 350px) {
